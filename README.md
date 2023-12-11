@@ -56,6 +56,6 @@ The instructions for this mini project are divided into the following subsection
     * The following image shows this campaign DataFrame:
 
 <p align="center">
-<img src="https://github.com/molleighH/Crowdfunding_ETL/blob/main/Resources/Images/campaign_DataFrame.png?raw=true" width="850" height="400" border="10"/>
+<img src="https://github.com/molleighH/Crowdfunding_ETL/blob/main/Resources/Images/campaign_DataFrame.png?raw=true" width="1100" height="400" border="10"/>
 </p>
 
