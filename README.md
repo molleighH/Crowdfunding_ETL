@@ -88,7 +88,7 @@ The instructions for this mini project are divided into the following subsection
 4. Check that your final DataFrame resembles the one in the following image:
 
 <p align="center">
-<img src="https://github.com/molleighH/Crowdfunding_ETL/blob/main/Resources/Images/contact_DataFrame_final.png?raw=true" width="700" height="700" border="10"/>
+<img src="https://github.com/molleighH/Crowdfunding_ETL/blob/main/Resources/Images/contact_DataFrame_final.png?raw=true" width="700" height="600" border="10"/>
 </p>
 
 #### 4. Create the Crowdfunding Database
