@@ -17,5 +17,5 @@ The instructions for this mini project are divided into the following subsection
     * The following image shows this category DataFrame:
 
 <p align="center">
-<img src="https://github.com/molleighH/Crowdfunding_ETL/blob/main/Resources/Images/category_DataFrame.png?raw=true" width="300" height="600" border="10"/>
+<img src="https://github.com/molleighH/Crowdfunding_ETL/blob/main/Resources/Images/category_DataFrame.png?raw=true" width="275" height="400" border="10"/>
 </p>
