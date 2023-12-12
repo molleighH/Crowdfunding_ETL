@@ -16,7 +16,7 @@ CREATE TABLE "campaign" (
     "currency" VARCHAR(5)   NOT NULL,
     "launched_date" INT   NOT NULL,
     "end_date" INT   NOT NULL,
-    "category_id" VARCAHR(10)   NOT NULL,
+    "category_id" VARCHAR(10)   NOT NULL,
     "subcategpry_id" VARCHAR(10)   NOT NULL,
     CONSTRAINT "pk_campaign" PRIMARY KEY (
         "cf_id"
@@ -43,7 +43,7 @@ CREATE TABLE "category" (
 
 CREATE TABLE "subcategory" (
     "subcategory_id" INT   NOT NULL,
-    "subcategory" VARCAHR(10)   NOT NULL,
+    "subcategory" VARCHAR(10)   NOT NULL,
     CONSTRAINT "pk_subcategory" PRIMARY KEY (
         "subcategory_id"
      )
